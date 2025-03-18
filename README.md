@@ -23,7 +23,7 @@ This project is a **React-based** web application that provides a **Product Deta
   - Prevents adding duplicate products.
 - **Routing & Deployment**
   - Implemented using **React Router** for smooth navigation.
-  - Hosted on **Netlify** or **Heroku**.
+  - Hosted on **Vercel**
 
 ## 🛠 Tech Stack
 - **Frontend:** React.js, Ant Design
